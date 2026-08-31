@@ -1,6 +1,6 @@
 # Kotlin Doxygen Filter
 [![Official Doxygen Helper](https://img.shields.io/badge/Doxygen-Official%20Helpers-blue?style=flat-square&logo=read-the-docs)](https://www.doxygen.nl/helpers.html)
-[![GitHub Release](https://img.shields.io/github/v/release/Amin4424/doxygen-kotlin-generator?style=flat-square)](https://github.com/Amin4424/doxygen-kotlin-generator/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Amin4424/doxygen-kotlin-generator?style=flat-square)](https://github.com/Amin4424/doxygen-kotlin-generator/releases)  
 A clean, production-ready, standalone command-line tool that acts as an **input filter for Doxygen**, allowing you to generate API documentation for Kotlin projects as easily as possible.
 
 ---
